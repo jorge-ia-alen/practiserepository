@@ -1,0 +1,31 @@
+body {
+    color: deepskyblue;
+    text-align: center;
+    font-family: "Cabril";
+    font-size: 15px;
+    font-stretch: expanded;
+}
+
+#cabecera {
+    font-size: 200%;
+    width: 90%;
+    padding: 5%;
+    margin: 0;
+    text-align: center;
+    background: #252850;
+    font-weight: bolder;
+    color: white;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5)
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0px auto;
+}
+
+#container h1 {
+    font-size: 20px;
+}

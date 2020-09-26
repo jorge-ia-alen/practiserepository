@@ -1,5 +1,5 @@
 body {
-    color: deepskyblue;
+    color: rgb(255, 196, 0);
     text-align: center;
     font-family: "Cabril";
     font-size: 15px;
@@ -11,11 +11,22 @@ body {
     width: 90%;
     padding: 5%;
     margin: 0;
-    text-align: center;
-    background: #252850;
+    text-align: left;
+    background: #23beb7;
     font-weight: bolder;
     color: white;
-    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5)
+    box-shadow: 0px 2px 50px 0px rgba(46, 189, 162, 0.541)
+}
+
+#cabecera #logo {
+    width: 100px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container {

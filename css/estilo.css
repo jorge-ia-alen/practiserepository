@@ -41,6 +41,11 @@ body {
     font-size: 20px;
 }
 
+#arblo #arbol {
+    width: 100%;
+    align-items: center;
+}
+
 #footer {
     color: greenyellow;
     font-size: 20px;

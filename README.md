@@ -12,6 +12,7 @@ En fin he desarrollado otras cosas como:
 - El flujo de trabajo en git
 - Trucos locos muy del profesor
 - Y ver las personalidades multiples de Freddy
+- Creado por el Increíble platzi team
 
 >"Anyway"
 

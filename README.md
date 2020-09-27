@@ -13,6 +13,7 @@ En fin he desarrollado otras cosas como:
 - Trucos locos muy del profesor
 - Y ver las personalidades multiples de Freddy
 - Creado por el Increíble platzi team
+- Incluye ejemplos en windows linux y mac
 
 >"Anyway"
 
